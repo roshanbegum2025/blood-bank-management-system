@@ -226,8 +226,8 @@ Password: admin123
 
 ## Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**[Roshan Begum]**
+- GitHub: [@roshanbegum](https://github.com/yourusername)
 - Email: youremail@example.com
 
 ---
