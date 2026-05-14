@@ -227,8 +227,8 @@ Password: admin123
 ## Author
 
 **[Roshan Begum]**
-- GitHub: [@roshanbegum](https://github.com/yourusername)
-- Email: youremail@example.com
+- GitHub: [@roshanbegum](https://github.com/roshanbegum2025/blood-bank-management-system.git).
+- Email: roshanbegum2611@gmail.com
 
 ---
 
